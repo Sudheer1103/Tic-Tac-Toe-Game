@@ -1,7 +1,7 @@
 let boxes = document.querySelectorAll(".box");
 let reset = document.querySelector("#reset-btn");
 let newGame = document.querySelector("#newGame-btn");
-let undoBtn = document.querySelector("#undo-btn"); // ✅ new button
+let undoBtn = document.querySelector("#undo-btn"); // new button
 let msgContainer = document.querySelector(".msg-container");
 let msg = document.querySelector("#msg");
 
