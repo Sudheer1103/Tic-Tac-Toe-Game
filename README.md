@@ -38,17 +38,18 @@ cd Tic-Tac-Toe-Game
 Open the index.html file in your browser.
 That’s it — start playing! 🎉
 
-📸 Screenshots
-🎲 Game Start
-(assets/screenshot1.png)
+## 📸 Screenshots  
 
-🏆 Winner Screen
-(assets/screenshot2.png)
-(assets/screenshot3.png)
+### 🎲 Game Start  
+![Game Start](assets/Screenshot1.png)  
 
-🤝 Draw Screen
-(assets/screenshot4.png)
-(assets/screenshot5.png)
+### 🏆 Winner Screen  
+![Winner Screen 1](assets/Screenshot2.png)  
+![Winner Screen 2](assets/Screenshot3.png)  
+
+### 🤝 Draw Screen  
+![Draw Screen 1](assets/Screenshot4.png)  
+![Draw Screen 2](assets/Screenshot5.png)  
 
 🔮 Future Improvements
 
