@@ -40,6 +40,7 @@ body{
     background-color: #191913;
     color: #ffffff;
     box-shadow: 0 0 1rem rgba(0,0,0, 0.3);
+    cursor: pointer;
 }
 #reset-btn{
     padding: 1rem;
@@ -49,7 +50,9 @@ body{
     background-color: #191913;
     color: #ffffff;
     box-shadow: 0 0 1rem rgba(0,0,0, 0.3);
+    cursor: pointer;
 }
+
 #newGame-btn{
     padding: 1rem;
     font-size: 1.25rem;
